@@ -1,4 +1,4 @@
-             ![Alt Text](https://media.giphy.com/media/TjowQmCwgaUbpPGxh0/giphy.gif)
+   ![Alt Text](https://media.giphy.com/media/TjowQmCwgaUbpPGxh0/giphy.gif)
 
 
 
@@ -9,6 +9,6 @@
 
 
 
-             ![Visitor Count](https://profile-counter.glitch.me/{Fendiyz}/count.svg)
+   ![Visitor Count](https://profile-counter.glitch.me/{Fendiyz}/count.svg)
 
 
